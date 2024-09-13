@@ -549,3 +549,7 @@ $courseLecturersData = $courseLecturers->tampilkanData();
 
 ### Lecturers
 ![Screenshot 2024-09-14 044628](https://github.com/user-attachments/assets/1df97889-b967-4b89-84ce-9121629fb3ea)
+
+## Authors
+### Ferina Sheren N.A
+
