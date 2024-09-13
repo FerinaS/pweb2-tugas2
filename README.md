@@ -392,7 +392,7 @@ $lecturersData = $lecturers->tampilkanData();
                       foreach ($lecturersData as $row) {
                     ?>
                     <tr>
-                        <!--tampilkan data -->
+                        <!-- tampilkan data -->
                         <td><?php echo $no++ ?></td>
                         <td><?php echo htmlspecialchars($row['id']) ?></td>
                         <td><?php echo htmlspecialchars($row['name']) ?></td>
